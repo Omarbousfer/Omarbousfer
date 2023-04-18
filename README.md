@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently ALX sofware engineering student  👨🏻‍💻 <br>I plan to intern after I graduate 👨🏻‍🎓 🎯 <br>i'm currently learning C languague 
+I'm currently ALX Sofware Engineering Student  👨🏻‍💻 <br>I plan to intern after I graduate 👨🏻‍🎓 🎯 <br>i'm currently learning C languague 
 
 
 ## 🌐 Socials:
